@@ -4,8 +4,8 @@ const api = "https://api.steampowered.com/ISteamApps/GetAppList/v0002/";
 let options = {
     url: api,
     cacheKey: api,
-    cacheTLL: 1000*60*60;
-}
+    cacheTLL: 1000*60*60
+};
 
 
 module.exports = test => {

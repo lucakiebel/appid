@@ -1,6 +1,6 @@
 {
   "name": "appid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find Steam games by their AppIDs or by their name. Convert one to the other.",
   "main": "app.js",
   "scripts": {
