@@ -1,0 +1,27 @@
+{
+  "name": "appid",
+  "version": "1.0.0",
+  "description": "Find Steam games by their AppIDs or by their name. Convert one to the other.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucakiebel/appid.git"
+  },
+  "keywords": [
+    "steam",
+    "game",
+    "appid",
+    "fetch",
+    "data",
+    "conversion"
+  ],
+  "author": "Luca Kiebel <opensource@luca-kiebel.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucakiebel/appid/issues"
+  },
+  "homepage": "https://github.com/lucakiebel/appid#readme"
+}
