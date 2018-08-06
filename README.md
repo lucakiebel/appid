@@ -33,6 +33,7 @@ Get all games starting with "a"
 await appid(/^a/i) // [{"appid":630,"name":"Alien Swarm"},{"appid":635,"name":"Alien Swarm Dedicated Server"},{"appid":640,"name":"Alien Swarm - SDK"},...]
 ```
 
+
 ## Installation
 
 Install `appid` using `npm` or `yarn`

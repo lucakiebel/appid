@@ -3,7 +3,7 @@ const request = require("request-promise-cache");
 const api = "https://api.steampowered.com/ISteamApps/GetAppList/v0002/";
 let options = {
     url: api,
-    cacheKey: api
+    cacheKey: api,
     cacheTLL: 1000*60*60;
 }
 
