@@ -17,7 +17,7 @@ module.exports = test => {
     case "Number":
       return byId(test);
       break;
-    case: "RegExp":
+    case "RegExp":
       return name_regex(test);
       break;
     default:
