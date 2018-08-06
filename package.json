@@ -14,7 +14,7 @@
     "steam",
     "game",
     "appid",
-    "fetch",
+    "request-promise-cache",
     "data",
     "conversion"
   ],
