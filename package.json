@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/lucakiebel/appid/issues"
   },
-  "homepage": "https://github.com/lucakiebel/appid#readme"
+  "homepage": "https://github.com/lucakiebel/appid#readme",
+  "dependencies": {
+    "ms": "^2.1.1",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "request-promise-cache": "^2.0.0"
+  }
 }
