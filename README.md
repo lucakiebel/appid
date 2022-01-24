@@ -10,6 +10,9 @@ await appid(730) // {appid: 730, name: "Counter-Strike: Global Offensive"}
 await appid(/Grand Theft Auto/) // [{"appid":5152,"name":"Grand Theft Auto IV"},{"appid":5656,"name":"Grand Theft Auto - Episodes from Liberty City Trailer"} ...]
 ```
 
+**[LIVE DEMO!](https://replit.com/@lucakiebel/appid-test)**
+
+
 ### Convert Name to AppID
 If you supply `appid` with a String, it will search the list of current games and return a Promise resolving the first game found.
 
